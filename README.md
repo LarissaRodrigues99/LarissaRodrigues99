@@ -1,7 +1,7 @@
 Oiee!! Eu sou a Larissa Rodrigues_99 👋
 
 - 🎓 Graduada: Análise e desenvolvimento de sistemas
-- 💻 Estudando: Lógica de programação, HTML, CSS, JavaScript, Java
+- 💻 Estudando: Lógica de programação, HTML, CSS, JavaScript, Java, React, Spring Boot, My SQL
 - 😄 Pronouns: Ela/Dela
 
 <div align="center">
